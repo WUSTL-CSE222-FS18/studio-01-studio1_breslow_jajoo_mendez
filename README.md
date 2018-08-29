@@ -151,3 +151,7 @@ Part of the goal of today's studio was to provide you some "menus" for:
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
+
+1. Kick (Human Interaction) - could be used for smart soccer ball
+1. Thinking (Human Interaction) - prosthetics that interact with brain waves
+1. Social isolation (mission) - want to prevent you from talking to other people
