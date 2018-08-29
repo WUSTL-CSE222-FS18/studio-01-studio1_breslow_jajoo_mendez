@@ -9,7 +9,7 @@ You should review all the class policies and post any questions or clarification
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 * Garima Jajoo
 * Brandon Mendez
-* Kenny Breslow
+* Kenneth Breslow
 
 # Part 1: Choose your own IoT Adventure
 
@@ -105,7 +105,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+1. Customer was happy, they wanted a more of a comprehensive reward system. They wanted the collar to be stylish.
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+We wanted a more scalable solution that could be deployed to multiple organization for optimal adoption.
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -120,11 +124,29 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
+  1. Utility - Does it solve the problem?
+  1. Sustainability - Is it not bad for the environment?
+  1. Aesthetic - Does it look nice?
 - Things
+  1. Eyewear - clothes for your eyes
+  1. Bike - transportation on two wheels, exercise.
+  1. Sports equipment - helps you do sports safely
 - Services
+  1. Car - automobile on four wheels. Transportation.
+  1. Email - transfers messages and files between individuals.
+  1. Instagram - Social media, image sharing.
 - Feedback
+  1. Motion
+  1. Blink
+  1. Shapeshift
 - Human Actions
+  1. Tap - Press with finger.
+  1. Drop - Let object fall.
+  1. Tilt - turn object.
 - Missions
+  1. Immortality - Make person live forever.
+  1. Habit Changing - Discourages bad habits or encourages good habits.
+  1. Social interaction - facilitates meeting new people.
 
 ### Contrast
 
