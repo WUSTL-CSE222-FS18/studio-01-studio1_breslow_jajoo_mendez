@@ -7,6 +7,9 @@ As with Studio 0, insert your answers to the questions in this document where in
 You should review all the class policies and post any questions or clarifications via Piazza (as a followup to the Welcome message) by Wednesday, Sept. 5.
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
+* Garima Jajoo
+* Brandon Mendez
+* Kenneth Breslow
 
 # Part 1: Choose your own IoT Adventure
 
@@ -18,6 +21,8 @@ Your group will be both a "Customer" and a "Designer".  First you'll prepare for
 
 ***Q1.1 Briefly describe your Mission:***
 
+We need a service that can transfer any file type between parties both inside and outside the organization in a secure manner. We also want to be able to attach messages to the files to describe what they are or what we want the recipient to do with them.
+
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
 Find another group to work with. The other group should be students who neither of you have worked with before and far enough away that they didn't overhear any of your discussion of your Mission. One group will be "Designers" while another is "Customers".  Then the groups will switch roles (so each will be a Designer while the other is a Customer).  Pick which group is "Designing" first.
@@ -28,6 +33,15 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+Create a concept where a task is intentionally made harder to accomplish
+Something to discourage bad habits like procrastination.
+Something to discourage leisure time.
+Leisure activities could be real world or on the computer.
+Temporary amount of time.
+Personal use case.
+Possible expansion to corporate settings
+
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +50,9 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+1. We propose smart shock collars with real time internet activity, vital metrics and body camera monitoring. The collar will track desktop and mobile usage. The user can specify which activities they would like to avoid, and the time period for which they would like to avoid said activities. When a user engages in the specified activities during the specified time period, the user will receive a minor electrical shock that will not stop until the activity is stopped.
+
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +60,14 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+1. Works for dogs.
+1. Need GPS functionality.
+1. Safety.
+1. Reward system.
+1. Less severe shock during hard times.
+
+
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +79,23 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+1. Implement geofence capability allowing user to establish area in which they would like the collar to function.
+1. Test it a lot, FDA approved.
+1. Reward system: if you avoid the activity for the whole specified time, you receive a massage
+1. Tracks your chemical balances, to make sure you aren't shocked when you're down in the dumps
+
+
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+
+1. Utility
+1. User-Friendly
+1. Scalability
+
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +105,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+1. Customer was happy, they wanted a more of a comprehensive reward system. They wanted the collar to be stylish.
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+We wanted a more scalable solution that could be deployed to multiple organization for optimal adoption.
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -83,12 +124,34 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
+  1. Utility - Does it solve the problem?
+  1. Sustainability - Is it not bad for the environment?
+  1. Aesthetic - Does it look nice?
 - Things
+  1. Eyewear - clothes for your eyes
+  1. Bike - transportation on two wheels, exercise.
+  1. Sports equipment - helps you do sports safely
 - Services
+  1. Car - automobile on four wheels. Transportation.
+  1. Email - transfers messages and files between individuals.
+  1. Instagram - Social media, image sharing.
 - Feedback
+  1. Motion
+  1. Blink
+  1. Shapeshift
 - Human Actions
+  1. Tap - Press with finger.
+  1. Drop - Let object fall.
+  1. Tilt - turn object.
 - Missions
+  1. Immortality - Make person live forever.
+  1. Habit Changing - Discourages bad habits or encourages good habits.
+  1. Social interaction - facilitates meeting new people.
 
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
+
+1. Kick (Human Interaction) - could be used for smart soccer ball
+1. Thinking (Human Interaction) - prosthetics that interact with brain waves
+1. Social isolation (mission) - want to prevent you from talking to other people
